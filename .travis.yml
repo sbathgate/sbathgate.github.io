@@ -17,7 +17,7 @@ branches:
 deploy:
   provider: releases
   skip_cleanup: true
-  github_token: $portfolio_website  # Set in the settings page of your repository, as a secure variable
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: true
   target-branch: master
   on:
