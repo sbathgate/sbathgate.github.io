@@ -16,7 +16,7 @@ branches:
 
 deploy:
   provider: pages
-  local-dir: ./site
+  local-dir: build
   target-branch: master
   email: deploy@travis-ci.org
   name: Deployment Bot
