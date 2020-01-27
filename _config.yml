@@ -17,4 +17,17 @@ github_username:  sbathgate
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+#   - src/
+#   - package.json
