@@ -9,7 +9,7 @@ username: Shaun Bathgate
 user_description: Electronically founded, after a decade as a Radar Technician in the RCN and now DND, I am eager to transition into a software development role. 
 user_description_1: Growing up in an entrepreneurial family, I have built a series of e-commerce websites for my family. Utilizing web hosting services such as Monster Commerce, Volusion, BigCommerce and Shopify, I would customise the front-end requirements to our specific use case. The current revisions have adopted Pixel Union templates for our 2019 modernization. 
 user_description_2: More recently, I have been contributing to an Open Source non-profit Ascoderu with their email project Lokole. This has provided me with the opportunity to improve my full-stack development capabilities. The Lokole devices use Raspberry Pi's to provide affordable email capability to rural communities in Africa. Built with Python, the Lokole uses the Flask framework, interfaces with Azure cloud services and relies on tools such as Github, Travis CI, SendGrid, CloudFlare, Nginx, Docker and Kubernetes.
-user_title: Junior Full Stack Developer
+user_title: Full Stack Developer
 email: me@shaunb.ca
 # twitter_username: lorem_ipsum
 github_username:  sbathgate
